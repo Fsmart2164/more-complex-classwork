@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binary trees", "binary tree
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionarys", "dictionarys\dictionarys.csproj", "{2EB1B467-E762-443D-BD0B-219379D672D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{BE938A39-4A4B-4C82-9EBC-B282ECCE9098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2EB1B467-E762-443D-BD0B-219379D672D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB1B467-E762-443D-BD0B-219379D672D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB1B467-E762-443D-BD0B-219379D672D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE938A39-4A4B-4C82-9EBC-B282ECCE9098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE938A39-4A4B-4C82-9EBC-B282ECCE9098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE938A39-4A4B-4C82-9EBC-B282ECCE9098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE938A39-4A4B-4C82-9EBC-B282ECCE9098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
