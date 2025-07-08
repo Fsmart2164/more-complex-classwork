@@ -12,7 +12,7 @@ namespace Exceptions
     public class SaveFileException : Exception
     {
         string savefilename;
-        public SaveFileException(string savefilename) : base("There is an error with the save file called ")
+        public SaveFileException(string savefilename) : base("There is an error with the save file "+filetype())
         {
             this.savefilename = savefilename;
             string name = getfilename();
@@ -21,7 +21,10 @@ namespace Exceptions
         {
             return "john";
         }
-
+        static private string filetype()
+        {
+            return ".txt";
+        }
     }
 
     internal class Program
