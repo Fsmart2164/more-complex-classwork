@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "error checking", "error checking\error checking.csproj", "{76F8EF6A-2367-4AE6-8CFF-9D697EFA44CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectors", "Vectors\Vectors.csproj", "{1EF3172C-AAF6-457D-8020-4F708B4288DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC dijkstras algorithm", "AOC dijkstras algorithm\AOC dijkstras algorithm.csproj", "{8A1C7D6B-2FFC-4639-8DBD-6E8D010658C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{76F8EF6A-2367-4AE6-8CFF-9D697EFA44CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F8EF6A-2367-4AE6-8CFF-9D697EFA44CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76F8EF6A-2367-4AE6-8CFF-9D697EFA44CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF3172C-AAF6-457D-8020-4F708B4288DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF3172C-AAF6-457D-8020-4F708B4288DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF3172C-AAF6-457D-8020-4F708B4288DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF3172C-AAF6-457D-8020-4F708B4288DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1C7D6B-2FFC-4639-8DBD-6E8D010658C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1C7D6B-2FFC-4639-8DBD-6E8D010658C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1C7D6B-2FFC-4639-8DBD-6E8D010658C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1C7D6B-2FFC-4639-8DBD-6E8D010658C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
